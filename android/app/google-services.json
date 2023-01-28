@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596565999281",
+    "project_id": "fir-practice-327bc",
+    "storage_bucket": "fir-practice-327bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596565999281:android:2d9d74c1e3745c4776ec90",
+        "android_client_info": {
+          "package_name": "com.example.blood_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596565999281-9hhsfmtg650a5lj8jdtag4j73q94roc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4GTWSTYQxBhGh0AgmEuRziUy6ZsrTSXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596565999281-9hhsfmtg650a5lj8jdtag4j73q94roc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
